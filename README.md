@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5wb2hhbW54aml6bGUwb3VjODYxbGljM2VnbmthMWJtdWFzdXloYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8p1WPEOeDWFCksfe18/giphy.gif" width="80">  Бесплатные VPN-конфигурации, работающие в России 
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTljeGk4d3lzZnU3Mm1peDBienFpbmEyb3JmaDB5N21tMW9oczIwdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8p1WPEOeDWFCksfe18/giphy.gif" width="45">  Бесплатные VPN-конфигурации, работающие в РФ 
 
 [![stars](https://custom-icon-badges.demolab.com/github/stars/igareck/vpn-configs-for-russia?logo=star&&style=flat)](https://github.com/igareck/vpn-configs-for-russia/stargazers "stars")
 <img src="https://komarev.com/ghpvc/?username=igareck&label=Visitors&color=0e75b6&style=flat" alt="Visitor Count" /> 
